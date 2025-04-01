@@ -1,4 +1,4 @@
-# Final_ITAI2372_Recycling_AI
+# Recycling_AI
 
 Naomi Berumen 
 Recycling AI- Finding solutions for trash pollution 
